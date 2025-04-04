@@ -1,2 +1,2 @@
-# MSDM5001HW1
-This is a project for HKUST DDM MSDM5001
+# MSDM
+This is a project for HKUST DDM MSDM
